@@ -22,8 +22,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media1.giphy.com/media/Kesldi2FHO2pXg7KSP/giphy.gif'  />
 
+<img src='https://media2.giphy.com/media/meV6qPTDWwzyga6iZZ/giphy.gif' />
 
 
 # Parstagram
